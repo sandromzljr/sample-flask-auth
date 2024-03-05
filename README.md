@@ -1,5 +1,5 @@
 # <span style = "color:gray"> sample-flask-auth </span>
-O projeto sample-flask-auth foi construído como aprendizado de programação backend na <strong>Formação Python</strong> da <a href="www.rocketseat.com.br"><span style = "color:purple"><strong>rocketseat</strong></span></a>
+O projeto sample-flask-auth foi construído como aprendizado de programação backend na <strong>Formação Python</strong> da <span style = "color:purple"><a href="https://www.rocketseat.com.br"><strong>rocketseat</strong></a></span>
 <br/><br/>
 API de autenticação simples, utilizando do flask_login para abstrair métodos de login e logout, além de definir rotas que somente usuários autenticados possam acessar.
 <br/><br/>
