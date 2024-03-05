@@ -40,7 +40,7 @@ Banco de dados conteinerizado, para que qualquer pessoa possa executar a aplica�
 </ul>
 
 > Itens marcados com "*" requer usuário autenticado para acessar a rota
-<br/>
+
 > Itens marcados com "**" requer usuário autenticado e role de admin para acessar a rota
 <br/>
 
